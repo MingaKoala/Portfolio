@@ -256,7 +256,7 @@ menuIcon.addEventListener("click", () => {
 // About Me Text
 const aboutMeText = document.querySelector(".about-me-text");
 const aboutMeTextContent =
-  "Hello I'm Benedikt Oltersdorf,a 27 year old web developer student from Germany - Munich. However, due to university projects where I was part of the frontend team and various frontend courses, my current main strength is in the frontend. My goal for the next year is to commit myself to one area, as a junior developer or in the area of ​​IT security. When I'm not busy with university or technology, I like to meet up with friends, play football and travel the world. These things help me to stay focused and give me a perfect balance.";
+  "Hello I'm Benedikt Oltersdorf,a 28 year old web developer student from Germany - Munich. However, due to university projects where I was part of the frontend team and various frontend courses, my current main strength is in the frontend. My goal for the next year is to commit myself to one area, as a junior developer or in the area of ​​IT security. When I'm not busy with university or technology, I like to meet up with friends, play football and travel the world. These things help me to stay focused and give me a perfect balance.";
 
 Array.from(aboutMeTextContent).forEach((char) => {
   const span = document.createElement("span");
